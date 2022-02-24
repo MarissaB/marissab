@@ -10,3 +10,6 @@ If you're on this page you've followed a link on either an application or my por
 
 #### I'm curious about...
 📱 **Mobile development.** A few years ago I poked around in Xamarin courses and that was interesting, so I'm stoked to see where things go with Microsoft's newest shot at cross-platform apps with MAUI. As long as a project does cool stuff, I'm down to learn additional platforms and skills. Just please don't make me do COBOL again.
+
+#### What on earth is that GitHub profile picture?
+🚘 My car! I love that little thing <3
